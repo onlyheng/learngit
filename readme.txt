@@ -5,3 +5,4 @@ git tracks chanages of files
 git hello world hello
 Create a new branch hello
 Creating a new branch is quick
+creating a new branch is quick AND simple
