@@ -5,4 +5,7 @@ git tracks chanages of files
 git hello world hello
 Create a new branch hello
 Creating a new branch is quick
+<<<<<<< HEAD
 Creating a new branch is quick $ simple
+=======
+>>>>>>> feature1
