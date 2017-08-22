@@ -9,5 +9,10 @@ Creating a new branch is quick $ simple
 
 Creating a new branch "dev"
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 2
+=======
+world
+1
+>>>>>>> feature1
